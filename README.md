@@ -8,9 +8,9 @@
 - 😄 Pronouns: Ela...
 - ⚡ fato engrasado...
 - ![](https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white)
- ![]()
- ![]()
- ![]()
+ ![](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)
+ ![](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
+ ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
 <!---
 manuuu03020/manuuu03020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
